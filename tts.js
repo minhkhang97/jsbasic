@@ -13,4 +13,4 @@ let user2 = {
     name: 'cuong'
 };
 
-sayHi(user.cb.bind(user2));
+sayHi(user.cb.bind(user));
